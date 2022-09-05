@@ -1,0 +1,21 @@
+				@font-face {
+					font-family: 'lineatura';
+					src: url('/wp-content/uploads/sites/21/useanyfont/170831055304Lineatura.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.lineatura{font-family: 'lineatura' !important;}
+
+						.lineatura div h2{
+					font-family: 'lineatura' !important;
+				}
+						.lineatura h2{
+					font-family: 'lineatura' !important;
+				}
+						.lineatura{
+					font-family: 'lineatura' !important;
+				}
+						.w-nav-title{
+					font-family: 'lineatura' !important;
+				}
+		
